@@ -1,0 +1,16 @@
+BEGIN MESSAGES
+
+xuxinwen: what are the topics for acsl
+
+BigChonk: on of the topics is recursive functions
+
+unixkcd: some of those problems are really tedious
+
+BigChonk: heres a very tedious problem
+
+BigChonk:        /  0          if n = 1
+          f(n) = {  f(3n+1)+1  if n is odd
+                 \  f(n/2)+1   if n is even
+          Find f(27)
+
+END MESSAGES

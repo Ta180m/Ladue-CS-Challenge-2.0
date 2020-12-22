@@ -1,0 +1,25 @@
+BEGIN MESSAGES
+
+xuxinwen: another acsl coming up
+
+BigChonk: Oh dang we better start
+
+BigChonk: oh wait competitions once every 2 weeks
+
+BigChonk: Right?
+
+unixkcd: every month
+
+BigChonk: Oh we good then
+
+xuxinwen: what are the topics
+
+unixkcd: one of them's prefix-infix-postfix
+
+BigChonk: those problems are usually just a big bash
+
+unixkcd: here's a sample problem:
+
+unixkcd: Evaluate the following prefix expression: + * + * + * + 2 2 2 2 2 2 2 2
+
+END MESSAGES
