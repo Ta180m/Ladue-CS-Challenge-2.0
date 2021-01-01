@@ -1,5 +1,13 @@
 BEGIN MESSAGES
 
+unixkcd: I just found this really weird dataset
 
+unixkcd: it's D.dat
+
+BigChonk: what is it
+
+unixkcd: idk
+
+xuxinwen: weird
 
 END MESSAGES
