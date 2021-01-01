@@ -8,6 +8,14 @@ xuxinwen: it actually cares about indentation
 
 BigChonk: uh ok
 
+unixkcd: what about lisp
+
+xuxinwen: meh
+
+xuxinwen: too many parentheses
+
+BigChonk: lol
+
 unixkcd: well guys i kind of got lazy
 
 xuxinwen: what
