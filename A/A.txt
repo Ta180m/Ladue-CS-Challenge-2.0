@@ -22,4 +22,8 @@ unixkcd: here's a sample problem:
 
 unixkcd: Evaluate the following prefix expression: + * + * + * + 2 2 2 2 2 2 2 2
 
+xuxinwen: wait i forgot prefix expressions
+
+BigChonk: search the internet
+
 END MESSAGES

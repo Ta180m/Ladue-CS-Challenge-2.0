@@ -1,22 +1,47 @@
 BEGIN MESSAGES
 
-xuxinwen: is the other acsl topic looking at pseudocode
+xuxinwen: any of you know lisp
 
-BigChonk: yeah
+BigChonk: lisp is hard
 
-unixkcd: heres an acsl problem
+unixkcd: relevant xkcd
 
-unixkcd: a = 1: b = 2: c = 3: d = 4: e = 4: f = 6
-         if (d / b) < (f / a) then d = d / b
-         a = f ^ b / c ^ (d / b)
-         if (a <= f) && (b > e) then a = f else b = e
-         if abs(c - f) != int(f / c) then c = f / c else f = f / c
-         if (a = = b) | | (c = = d) then a = a + b
-         c = c + d
-         output (b * c) * (f + d) / a / 2 * d - c + e ^ (b - 2 * d)
+unixkcd: https://xkcd.com/224/
 
-xuxinwen: do we find what it outputs
+BigChonk: is that why your username is unixkcd
 
-BigChonk: yeah
+unixkcd: yes
+
+unixkcd: try going to https://uni.xkcd.com
+
+xuxinwen: can you tell me what this program does?
+
+xuxinwen:
+;; Common Lisp
+
+(defun g (a b)
+    (if (> b 0) (g b (mod a b)) a)
+)
+
+(setq N 5)
+
+(setq A ())
+(loop for i from 0 to (- N 1)
+    do (setq A (append A (list i)))
+)
+
+(setq ans 0)
+(loop for i in A
+    do (loop for j in A
+        do (setq ans (+ ans (g i j)))
+    )
+)
+(print ans)
+
+unixkcd: too many parenthesis
+
+BigChonk: i would rather paste it into an online lisp interpreter
+
+BigChonk: than do it by hand
 
 END MESSAGES

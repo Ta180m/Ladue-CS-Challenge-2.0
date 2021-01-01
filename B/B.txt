@@ -2,15 +2,13 @@ BEGIN MESSAGES
 
 xuxinwen: what are the topics for acsl
 
-BigChonk: on of the topics is recursive functions
+BigChonk: one of them is bit string stuff
 
-unixkcd: some of those problems are really tedious
+BigChonk: but its usually really easy
 
-BigChonk: heres a very tedious problem
+unixkcd: try this one
 
-BigChonk:        /  0          if n = 1
-          f(n) = {  f(3n+1)+1  if n is odd
-                 \  f(n/2)+1   if n is even
-          Find f(27)
+unixkcd: Find the number of values of x (5 bits long) that satisfy the following equation:
+         (NOT x) AND 11111 = 10101 XOR 01010
 
 END MESSAGES
