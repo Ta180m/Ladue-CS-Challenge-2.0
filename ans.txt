@@ -1,0 +1,10 @@
+44
+32
+44
+300iq
+gnu
+1e-7
+unixkcd
+platypus
+0.48
+lisp
