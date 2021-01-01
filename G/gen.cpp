@@ -13,7 +13,7 @@ int main() {
 
     vector<string> words({ "Kevin", "Robert", "Aiden", "Sayam", "Marina", "Andy", "Michael", "Samuel", "Jason", "Darren", "Anthony", "Billiam", "Bobert", "Samchooo", "unixkcd", "BigChonk", "xuxinwen" });
 
-    const int N = 1e6;
+    const int N = 1e5;
     for (int i = 0; i < N; ++i) {
         if (i == 69420) cout << 4200 << ' ' << 111 << ' ' << "unixkcd" << '\n';
         else cout << rating(generator) << ' ' << height(generator) << ' ' << words[rand()%words.size()] << '\n';

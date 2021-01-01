@@ -4,4 +4,12 @@ unixkcd: final data set!
 
 BigChonk: finally
 
+xuxinwen: what about precision this time
+
+unixkcd: two digits
+
+unixkcd: if you get 0.314159, put 0.31 as your answer
+
+xuxinwen: thanks
+
 END MESSAGES

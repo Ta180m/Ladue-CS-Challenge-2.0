@@ -8,7 +8,7 @@ int main() {
     ios_base::sync_with_stdio(0), cin.tie(0);
 
     vector<point> vc;
-    for (int i = 0; i < 1e6; ++i) {
+    for (int i = 0; i < 1e5; ++i) {
         double x; string s;
         cin >> x >> s;
         vc.emplace_back(x, s);

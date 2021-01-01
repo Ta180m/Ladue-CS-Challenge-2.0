@@ -12,9 +12,9 @@ int main() {
 
     vector<string> words({ "penguin", "gnu", "fox", "mouse", "coyote", "mule", "platypus", "squirrel", "monkey" });
 
-    const int N = 1e6;
+    const int N = 1e5;
     for (int i = 0; i < N; ++i) {
-        if (i % 20000 == 10000) cout << 1729+(rand()%20)-10 << ' ' << "gnu" << '\n';
+        if (i % 20000 == 10000) cout << 1729.0+(rand()%30)-15 << ' ' << "gnu" << '\n';
         else cout << distribution(generator) << ' ' << words[rand()%words.size()] << '\n';
     }
 }

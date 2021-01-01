@@ -12,7 +12,7 @@ int main() {
 
     vector<string> words({ "Kevin", "Robert", "Aiden", "Sayam", "Marina", "Andy", "Michael", "Samuel", "Jason", "Darren", "Anthony", "Billiam", "Bobert", "Samchooo", "unixkcd", "BigChonk", "xuxinwen" });
     
-    const int N = 1e6;
+    const int N = 1e5;
     for (int i = 0; i < N; ++i) {
         if (i == 54321) cout << 300 << ' ' << "300iq" << '\n';
         else cout << distribution(generator) << ' ' << words[rand()%words.size()] << '\n';

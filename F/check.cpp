@@ -6,7 +6,7 @@ int main() {
     ios_base::sync_with_stdio(0), cin.tie(0);
 
     vector<double> vc;
-    for (int i = 0; i < 1e6; ++i) {
+    for (int i = 0; i < 1e5; ++i) {
         double x;
         cin >> x;
         vc.push_back(x);

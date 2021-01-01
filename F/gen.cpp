@@ -10,7 +10,7 @@ int main() {
     freopen("F.dat", "w", stdout);
     ios_base::sync_with_stdio(0), cin.tie(0);
 
-    const int N = 1e6;
+    const int N = 1e5;
     for (int i = 0; i < N; ++i) {
         cout << setprecision(12) << distribution(generator) << '\n';
     }
