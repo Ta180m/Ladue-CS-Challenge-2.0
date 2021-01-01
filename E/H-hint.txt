@@ -1,1 +1,1 @@
-G: Open it with a text editor and get a big-picture view of it
+H: Now do it in 2D!
