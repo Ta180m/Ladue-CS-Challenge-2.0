@@ -12,6 +12,7 @@ int main() {
         double x, y; string s;
         cin >> x >> y >> s;
         vc.push_back({ { y, x }, s });
+        // vc.push_back({ { -x, y }, s });
     }
     sort(begin(vc), end(vc));
     for (int i = 0; i < 11; ++i) {

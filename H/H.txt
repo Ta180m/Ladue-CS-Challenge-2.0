@@ -2,16 +2,12 @@ BEGIN MESSAGES
 
 xuxinwen: too many datasets
 
-xuxinwen: we're going to run out of storage
+xuxinwen: you need to be more creative next time
 
-xuxinwen: these datasets are too large
+unixkcd: well anyways they told me that K = 11
 
-unixkcd: they are *only* a few megabytes each
+unixkcd: and to classify ( 4200, 4200 ) but idk what to do
 
-BigChonk: yeah but if we have six of them
-
-BigChonk: that adds up to a lot
-
-xuxinwen: rip
+BigChonk: very weird
 
 END MESSAGES

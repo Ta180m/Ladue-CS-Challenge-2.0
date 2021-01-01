@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     // Prepare RNG
     default_random_engine generator(chrono::system_clock::now().time_since_epoch().count());
-    normal_distribution<double> rating(2000.0, 500.0);
+    normal_distribution<double> rating(2000.0, 600.0);
     normal_distribution<double> height(150.0, 10.0);
 
     // Prepare I/O
@@ -15,7 +15,7 @@ int main() {
 
     const int N = 1e5;
     for (int i = 0; i < N; ++i) {
-        if (i == 69420) cout << 4200 << ' ' << 111 << ' ' << "unixkcd" << '\n';
+        if (i == 69420) cout << 4200.42 << ' ' << 111.111 << ' ' << "unixkcd" << '\n';
         else cout << rating(generator) << ' ' << height(generator) << ' ' << words[rand()%words.size()] << '\n';
     }
 }
