@@ -4,4 +4,16 @@ xuxinwen: why so many datasets?
 
 unixkcd: data analysis is fun!
 
+unixkcd: apparently we're supposed to find a distance
+
+unixkcd: but I don't know what distance specifically
+
+BigChonk: weird question but what precision do we need?
+
+unixkcd: one digit should be fine
+
+unixkcd: like if you got 3.1415e-6 as your answer
+
+unixkcd: then you would put 3e-6
+
 END MESSAGES
