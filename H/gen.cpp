@@ -10,8 +10,7 @@ int main() {
     freopen("D.dat", "w", stdout);
     ios_base::sync_with_stdio(0), cin.tie(0);
 
-    vector<string> words({ "dog", "cat", ""})
-
+    vector<string> words({ "penguin", "gnu", "fox", "mouse", "coyote", "mule", "platypus", "squirrel", "monkey" });
 
     const int N = 1e6;
     for (int i = 0; i < N; ++i) {
