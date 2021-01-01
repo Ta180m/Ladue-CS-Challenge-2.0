@@ -2,6 +2,8 @@ Hello coder,
 
 You have intercepted ten sets of confidential documents from a secret hacking group's Discord. Some of the documents are message logs, others are source code, and a few contain only some cryptic numbers or encrypted text.
 
+The THEME for this CS Challenge is data analysis. Get your data analysis tools (Python should be enough) ready!
+
 Rules:
 
 1. Teams of 2 people
