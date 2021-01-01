@@ -24,3 +24,4 @@ do
         problem_number=$((problem_number+1))
     fi
 done
+zip problem.zip README.txt
