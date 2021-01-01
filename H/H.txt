@@ -1,7 +1,17 @@
 BEGIN MESSAGES
 
-xuxinwen: why so many datasets?
+xuxinwen: too many datasets
 
-unixkcd: data analysis is fun!
+xuxinwen: we're going to run out of storage
+
+xuxinwen: these datasets are too large
+
+unixkcd: they are *only* a few megabytes each
+
+BigChonk: yeah but if we have six of them
+
+BigChonk: that adds up to a lot
+
+xuxinwen: rip
 
 END MESSAGES

@@ -11,4 +11,14 @@ unixkcd: try this one
 unixkcd: Find the number of values of x (5 bits long) that satisfy the following equation:
          (NOT x) AND 11111 = 10101 XOR 01010
 
+xuxinwen: doesnt seem too bad
+
+BigChonk: some acsl probs are much worse
+
+BigChonk: but multiple choice makes it too easy
+
+unixkcd: I still got 4/5 tho
+
+xuxinwen: lmao
+
 END MESSAGES

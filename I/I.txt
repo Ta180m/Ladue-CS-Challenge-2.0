@@ -1,7 +1,7 @@
 BEGIN MESSAGES
 
-xuxinwen: why so many datasets?
+unixkcd: final data set!
 
-unixkcd: data analysis is fun!
+BigChonk: finally
 
 END MESSAGES

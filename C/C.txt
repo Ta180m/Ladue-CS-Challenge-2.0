@@ -44,4 +44,6 @@ BigChonk: i would rather paste it into an online lisp interpreter
 
 BigChonk: than do it by hand
 
+xuxinwen: good idea
+
 END MESSAGES
