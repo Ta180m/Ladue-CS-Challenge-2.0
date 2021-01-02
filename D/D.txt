@@ -10,4 +10,8 @@ unixkcd: idk
 
 xuxinwen: weird
 
+unixkcd: we're supposed to find something
+
+unixkcd: but I dont know what
+
 END MESSAGES
