@@ -1,5 +1,4 @@
-# Ladue CS Challenge 2.0
-## Data Overload!
+# Ladue CS Challenge 2.0 - Data Overload!
 
 All the problems in this round were prepared by Anthony. I tried to make the problems generally easy, but they tend to be a bit more difficult than I expect. I did kind of get lazy by makign hard versions instead of completely new problems, and J was basically a joke.
 
