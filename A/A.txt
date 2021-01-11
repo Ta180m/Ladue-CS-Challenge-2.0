@@ -20,7 +20,7 @@ BigChonk: those problems are usually just a big bash
 
 unixkcd: here's a sample problem:
 
-unixkcd: Evaluate the following prefix expression: + * + * + * + 2 2 2 2 2 2 2 2
+unixkcd: Evaluate the following prefix expression: * + * + * + 2 2 2 2 2 2 2 2
 
 xuxinwen: wait i forgot prefix expressions
 

@@ -9,7 +9,7 @@ BigChonk: but its usually really easy
 unixkcd: try this one
 
 unixkcd: Find the number of values of x (5 bits long) that satisfy the following equation:
-         (NOT x) AND 11111 = 10101 XOR 01010
+         (NOT x) OR 11111 = 10101 XOR 01010
 
 xuxinwen: doesnt seem too bad
 
